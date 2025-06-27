@@ -26,10 +26,11 @@ DeepSeek为何成为国内AI爱好者的首选？
 
 | 网站名称 | 功能支持 | 访问链接 |
 | --- | --- | --- |
-| **[DeepSeek 中文](https://www.deepseek.com)** | 支持DeepSeek R1、联网查询、代码生成等，缺点是总是请求繁忙 | [点击访问](https://www.deepseek.com) |
 | **[一下 AI](https://chat.yixiaai.com/)** | 支持DeepSeek R1满血版、DeepSeek V3 0324、AI绘画、AI PPT、AI 翻译、联网查询等功能 | [点击访问](https://deepseek-free.org/) |
 | **[xsimple AI](https://xsimplechat.com/)** | 支持DeepSeek、Claude、Grok等多模型 | [点击访问](https://chat.chatgpt-chinese.com/) |
 | **[蓝鲸 AI](https://chat.lanjingai.org/)** | 支持DeepSeek、Claude、Grok等多模型 | [点击访问](https://chat.chatgpt-chinese.com/) |
+| **[DeepSeek 中文](https://www.deepseek.com)** | 支持DeepSeek R1、联网查询、代码生成等，缺点是总是请求繁忙 | [点击访问](https://www.deepseek.com) |
+
 
 **优点**：  
 - 无需复杂设置，直接访问。  

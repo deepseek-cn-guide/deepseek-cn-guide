@@ -23,6 +23,7 @@ DeepSeek为何成为国内AI爱好者的首选？
 ### **1. 访问DeepSeek官方网页版**
 通过DeepSeek官方平台或合作的镜像网站，用户可以快速体验最新模型的强大功能。这些平台整合多种AI能力，操作简单：  
 推荐资源：  
+
 | 网站名称 | 功能支持 | 访问链接 |
 | --- | --- | --- |
 | **[DeepSeek 中文](https://www.deepseek.com)** | 支持DeepSeek R1、联网查询、代码生成等，缺点是总是请求繁忙 | [点击访问](https://www.deepseek.com) |

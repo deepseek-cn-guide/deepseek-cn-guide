@@ -1,7 +1,7 @@
 
 
-# **DeepSeek 中文官网、网页版入口 | DeepSeek 最全教程指南~ （2025年4月更新）**
-> 更新日期：2025-04-27
+# **DeepSeek 中文官网、网页版入口 | DeepSeek 最全教程指南~ （2025年6月更新）**
+> 更新日期：2025-06-27
 ---
 
 DeepSeek，作为中国本土研发的领先语言模型，以卓越的中文处理能力和高效性能广受好评。它在自然语言生成、知识问答和任务处理上表现突出。本文将为您详细介绍如何在国内便捷使用DeepSeek，探索其强大功能！
@@ -25,9 +25,10 @@ DeepSeek为何成为国内AI爱好者的首选？
 推荐资源：  
 | 网站名称 | 功能支持 | 访问链接 |
 | --- | --- | --- |
-| **[DeepSeek 中文](https://www.deepseek.com)** | 支持DeepSeek R-1、联网查询、代码生成等，缺点是总是请求繁忙 | [点击访问](https://www.deepseek.com) |
-| **[一下 AI](https://chat.yixiaai.com/)** | 支持DeepSeek R1满血版、DeepSeek V3 0324、Claude 3.7 Sonnet、GPT 4o绘画、AI PPT、GPT-4.0、GPT-4.1 & mini、GPT-o1、GPT-o3、Gemini 2.5 Pro、Grok-3、AI PPT、AI 翻译、联网查询等功能	 | [点击访问](https://deepseek-free.org/) |
-| **[蓝鲸 AI](https://chat.chatgpt-chinese.com/)** | 支持DeepSeek、Claude、Grok等多模型 | [点击访问](https://chat.chatgpt-chinese.com/) |
+| **[DeepSeek 中文](https://www.deepseek.com)** | 支持DeepSeek R1、联网查询、代码生成等，缺点是总是请求繁忙 | [点击访问](https://www.deepseek.com) |
+| **[一下 AI](https://chat.yixiaai.com/)** | 支持DeepSeek R1满血版、DeepSeek V3 0324、AI绘画、AI PPT、AI 翻译、联网查询等功能 | [点击访问](https://deepseek-free.org/) |
+| **[xsimple AI](https://xsimplechat.com/)** | 支持DeepSeek、Claude、Grok等多模型 | [点击访问](https://chat.chatgpt-chinese.com/) |
+| **[蓝鲸 AI](https://chat.lanjingai.org/)** | 支持DeepSeek、Claude、Grok等多模型 | [点击访问](https://chat.chatgpt-chinese.com/) |
 
 **优点**：  
 - 无需复杂设置，直接访问。  
